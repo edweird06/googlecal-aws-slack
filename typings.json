@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160817105618"
+  },
+  "globalDependencies": {
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "moment-timezone": "registry:dt/moment-timezone#0.2.5+20160329220348",
+    "node": "registry:dt/node#6.0.0+20160818175514",
+    "request-promise": "registry:dt/request-promise#3.0.0+20160811111312"
+  }
+}

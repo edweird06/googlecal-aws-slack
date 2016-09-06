@@ -1,0 +1,6 @@
+{
+  "slashCommandToken": "YOUR_TOKEN_FROM_SLACK_SLASH_COMMAND_INTEGRATION",
+  "workCalId": "MY_GOOGLE_CALENDAR_ID",
+  "calKey": "MY_GOOGLE_CALENDAR_KEY",
+  "calGroup": "MY_GOOGLE_CALENDAR_GROUP"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "googlecal-aws-slack",
+  "version": "0.0.1",
+  "description": "Post things to Slack from Google Calendar using AWS lambda",
+  "main": "index.js",
+  "author": "Edward Taylor",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "moment-timezone": "^0.5.5",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-vinyl-zip": "^1.2.2"
+  }
+}
